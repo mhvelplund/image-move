@@ -1,9 +1,9 @@
 [tool.poetry]
     authors     = ["Mads Hvelplund <mhvelplund@users.noreply.github.com>"]
-    description = "Rename images based on their folder"
+    description = "Rename images based on their folder."
     name        = "imgmv"
     readme      = "README.md"
-    version     = "0.1.0"
+    version     = "0.1.2"
 
 [tool.poetry.dependencies]
     python = "^3.11"
